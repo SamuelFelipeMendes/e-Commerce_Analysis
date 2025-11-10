@@ -44,5 +44,5 @@ A amostra contém 86 observações e diversas variáveis demográficas e comport
 <p>Entre o target (Gasto Médio) e as outras variáveis que foram escolhidas.</p>
 <img width="587" height="430" alt="{8E70DE4F-BC48-4E13-931D-085DD4C11AF7}" src="https://github.com/user-attachments/assets/a7f0c752-c9db-4246-907e-8a6f8c09067f" />
 
-<h2>Conclusão e Insights</h2>> 
+<h2>Conclusão e Insights</h2>
 <p>Com base nas análises realizadas, observa-se que itens como facilidade de navegação, percepção de segurança e hábitos de comparação de preços apresentam associação com a satisfação do consumidor em compras online. Recomenda-se ao e-commerce investir em melhorias na usabilidade do site, garantias claras de segurança e estratégias de preço competitivas. Análises adicionais com modelos categóricos e amostras maiores podem fortalecer as conclusões.</p> 
