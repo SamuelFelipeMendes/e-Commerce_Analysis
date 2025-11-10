@@ -15,12 +15,11 @@ A amostra contém 86 observações e diversas variáveis demográficas e comport
 <h2> Gráficos - Interações entre Variáveis </h2>
 <h3> Matriz de Correlação	</h3>	 
 <img width="674" height="499" alt="{6160AECD-5D1F-44D2-B97D-F88F1D0435B6}" src="https://github.com/user-attachments/assets/5871a826-01e2-43bb-8767-0a0b97f8577c" />
-<p>Heatmap de uma matriz de correlação de todas as variaveis e sua influencia entre si</p>
 
 <h3> Dispositivos mais utilizados </h3>
 Gráfico de barras
 <img width="543" height="373" alt="{6C0CA3BC-F6BB-44A4-8B9F-5FC06C54AC30}" src="https://github.com/user-attachments/assets/15038bf0-8c14-406c-8d04-191a644429d3" />
-<p>Computador; 2) Celular; 3) Tablet; 4) Outros<p> 
+
 
 <h3> Distribuição de Renda </h3> 
 Distribuição de Renda Mensal 
