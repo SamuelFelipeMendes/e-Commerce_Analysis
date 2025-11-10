@@ -4,7 +4,7 @@ Relatório de E-commerce
 Samuel Felipe dos Santos Mendes  
 
 
-<h1> Contextualização </h1> 
+## Contextualização </h1> 
 
 <p> Este relatório tem como objetivo realizar uma análise estatística e gráfica de uma pesquisa de e-commerce. Dentro dessa análise, há algumas análises gráficas entre algumas variáveis independes e algumas entre a dependente e independente. Uma análise de correlação em duas formas diferentes, e duas análises de regressão, uma simples e uma múltipla.  
 
