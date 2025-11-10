@@ -18,6 +18,7 @@ A amostra contém 86 observações e diversas variáveis demográficas e comport
 
 <h3> Dispositivos mais utilizados </h3>
 <img width="543" height="373" alt="{6C0CA3BC-F6BB-44A4-8B9F-5FC06C54AC30}" src="https://github.com/user-attachments/assets/15038bf0-8c14-406c-8d04-191a644429d3" />
+<p>1)Computador;2)Celular;3)Tablet;4)Outros</p>
 
 <h3> Distribuição de Renda Mensal </h3>  
 <img width="574" height="368" alt="{2A5EC8D9-3910-412A-9CD0-5EEA1E0C7C00}" src="https://github.com/user-attachments/assets/f4c447bd-0cb7-4263-8569-0d48a5ac2ad5" />
@@ -26,8 +27,8 @@ A amostra contém 86 observações e diversas variáveis demográficas e comport
 <img width="558" height="401" alt="{B6A86DFA-BF46-4B82-86CD-BCCF07B877A6}" src="https://github.com/user-attachments/assets/6121f5c7-3122-49d7-b657-90eb591047ca" />
 
 <h3> Influenciadores influenciam na sua compra? </h3>
- <img width="557" height="410" alt="{04DD0C80-804B-438A-9F7A-849A41D28E7E}" src="https://github.com/user-attachments/assets/00dad9a8-1dc9-4e7b-8582-5496e4ee45ee" />
-
+<img width="557" height="410" alt="{04DD0C80-804B-438A-9F7A-849A41D28E7E}" src="https://github.com/user-attachments/assets/00dad9a8-1dc9-4e7b-8582-5496e4ee45ee" />
+<p>1)Não2)Sim</p>
 <h2>Tabela – Estatística descritiva e análise de correlação</h2>  
 <h3>Análise de correlação</h3>
 
